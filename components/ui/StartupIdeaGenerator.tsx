@@ -105,8 +105,8 @@ export default function StartupIdeaGenerator() {
         </div>
       ) : (
         <div>
-          <p className="text-center">No ideas generated yet. Select categories and click "Generate Ideas".</p>
-          <p className="text-center">"Can't find your category? Want to suggest more? Submit your request here."</p>
+          <p className="text-center">No ideas generated yet. Select categories and click &quot;Generate Ideas&quot;.</p>
+          <p className="text-center">Can&apos;t find your category? Want to suggest more? Submit your request here.</p>
         </div>
       )}
     </div>
